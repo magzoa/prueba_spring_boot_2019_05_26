@@ -7,3 +7,7 @@ Acesso para lista de produtos: https://produtos-apirest.herokuapp.com/api/produt
 Acesso produto unico: https://produtos-apirest.herokuapp.com/api/produto/{id}
 
 Salvar, Atualizar e Deletar produto: https://produtos-apirest.herokuapp.com/api/produto
+
+En forma Local
+
+http://localhost:8080/api/produtos
